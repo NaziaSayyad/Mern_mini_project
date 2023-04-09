@@ -1,0 +1,32 @@
+#image{
+    position: absolute;
+left: 20%;
+/* right: 0%; */
+top: 20%;
+/* bottom: 0%; */
+
+/* border: 1.5px solid #000000; */
+}
+#text{
+    left:35%;
+    /* right: 0%; */
+    top: 17%;
+    position: absolute;
+    width: 64px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+
+/* Secondary */
+
+color: #202553;
+    /* bottom: 0%; */
+    
+    /* border: 1.5px solid #000000; */
+}
